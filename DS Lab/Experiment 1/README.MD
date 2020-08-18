@@ -20,3 +20,4 @@ And the next condition is if key value is not present in the array When i > n we
 As 100 is not there in my array the output shows as element is not found.
 
 ##OUTPUT :For key 36 :
+![output](IMG-20200814WA0010.png)
