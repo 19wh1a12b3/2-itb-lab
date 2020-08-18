@@ -1,5 +1,5 @@
 
-AIM OF THE EXPERIMENT :Writing linear search program by using non recursive functions.
+#AIM OF THE EXPERIMENT :Writing linear search program by using non recursive functions.
 
 ##LINEAR SEARCH:This is to find whether a number is present in an array.If it is present,then what location it occurs..we will be comparing each element to search until we find it.Whether the array is in sorted way or not it doesnt matter.
 
