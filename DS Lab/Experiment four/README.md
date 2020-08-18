@@ -19,3 +19,10 @@ My another key value is 33,which is already in mid -1 position where my n value 
 My next key value is 92 which is after the mid value,so i=mid+1 and n=9. when i=5 and n=9,(5+9)/2=7,which is not correct.
 when i=7 and n=9,(7+9)/2=8,which is correct position.So the output is obtained as element found at 8 as we are saying to print it.
 when the condition(i>n) is true then the output obtained is element not found as we are saying to print it..
+![Screenshot (41)](https://user-images.githubusercontent.com/69307981/90538455-36dfb600-e19c-11ea-9149-2229acec6a4b.png)
+![Screenshot (42)](https://user-images.githubusercontent.com/69307981/90538464-39daa680-e19c-11ea-965a-106475102d20.png)
+![Screenshot (43)](https://user-images.githubusercontent.com/69307981/90538470-3b0bd380-e19c-11ea-9d8e-5c995b0da7f1.png)
+![Screenshot (44)](https://user-images.githubusercontent.com/69307981/90538476-3ba46a00-e19c-11ea-817a-2ff6251e354d.png)
+
+
+
