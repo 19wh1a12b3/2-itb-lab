@@ -20,4 +20,6 @@ And the next condition is if key value is not present in the array When i > n we
 As 100 is not there in my array the output shows as element is not found.
 
 ##OUTPUT :For key 36 :
-![output](IMG-20200814WA0010.png)
+![output](IMG-20200814WA0010.png)![linear exp1 sol](https://user-images.githubusercontent.com/69307981/90538048-a73a0780-e19b-11ea-9065-b951e42aeb85.png)
+![linear exp1](https://user-images.githubusercontent.com/69307981/90538056-a99c6180-e19b-11ea-9fe1-c23cd070b938.png)
+
